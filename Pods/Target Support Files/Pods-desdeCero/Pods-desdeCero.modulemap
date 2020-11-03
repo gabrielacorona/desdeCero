@@ -1,0 +1,6 @@
+framework module Pods_desdeCero {
+  umbrella header "Pods-desdeCero-umbrella.h"
+
+  export *
+  module * { export * }
+}
